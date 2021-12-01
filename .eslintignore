@@ -1,0 +1,15 @@
+node_modules
+lib
+dist
+build
+coverage
+expected
+website
+gh-pages
+weex
+build.ts
+esm
+doc-site
+public
+package
+jest.config.js
