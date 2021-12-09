@@ -67,6 +67,7 @@
     "babel-loader": "^8.2.3",
     "element-ui": "^2.15.6",
     "vue-codemirror": "^4.0.6",
-    "webpack-cli": "3.3.10"
+    "webpack-cli": "3.3.10",
+    "webpack-dev-server": "^3.5.1"
   }
 }
